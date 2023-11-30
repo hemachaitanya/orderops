@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: hema789/argocdrepo:sb_2
+          image: hema789/argocdrepo:sb_3
           ports:
             - containerPort: 80
           resources:
